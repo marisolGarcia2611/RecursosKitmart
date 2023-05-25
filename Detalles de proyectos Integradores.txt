@@ -1,0 +1,22 @@
+Todos estos proyectos se hicieron en colaboración con otros compañeros
+Proyecto Integrador 1:
+Aplicación web usando html, php, css, bootstrap, bd(phpMyAdmin y workbench).
+
+Nombre de la aplicación web:AIN
+
+Descrpción: Esta contaba con un sistema de roles de usuario Cliente, empleado y Directivo, cada uno realizaz diferentes acciones.
+AIN es una empresa de aluminio y vidrio por lo cual se vio conveniente el hacer un sistema de citas y un catalogo virtual del lado de los clientes, los empleados podían ver esas citas agendadas y responder a estas, tambien manejar un control de inventario y añadir productos al catálogo. El directivo tenia los provilegios del empleado, añadiendo un control de provedores para agendar su distrubución, así mismo control de susu empleados.
+
+Repositorio: https://github.com/marisolGarcia2611/webIntegradoraAIN
+
+Proyecto Integrador 2:
+Nombre: Kitmart
+Descrpción: La aplicacion es multiplaraforma(web y móvil(iOS)), con domótica, se maneja en el concepto de una cocina inteligente, capaz de controlar espacios y hacer informes. Conto con:
+- API y Aplicación web, realizada con adonis y angular.
+- Aplicación Móvil, realizada en la plataforma Xcode para iOS.
+- Sistema en python, realizada para controlarse mediante raspberry pi con un circuito de domótica.  
+
+Repositorios:
+- web y API: https://github.com/Nayeli-25/kitmart-equipo3
+-Aplicación móvil en Xcode para iOS: https://github.com/RUBENXD713/Kitmart_Movil
+-Sistema en phyton en Raspberry pi: https://github.com/RUBENXD713/Kitmart-Python

@@ -1,0 +1,23 @@
+Logo geometrico
+
+Z = Baardfaant, contorno = 2ba881
+Lertas= BahnschiriftLight, color = 8b8b8b
+azul = 369df6
+rosa = f67c6e
+verde = 69d442
+acua = 3af6a5
+
+logo futurista azul
+degradado del circulo = azul claro:ff6af6c3, azul oscuro: ff0079c5
+pCintilla =1b5d86
+ZaCintilla =2987c5
+ZbCintilla = 2bf6ca
+uCintilla = 3af6a5
+
+logo futurista rosa
+
+degradado del circulo = azul claro: ff6af6c3, rosa claro: fff67992
+pCintilla = bc5682
+ZaCintilla = e970f6
+ZbCintilla = 2bf6ca
+uCintilla = 3af6a5

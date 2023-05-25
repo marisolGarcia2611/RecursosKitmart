@@ -1,0 +1,28 @@
+fondo de login y registro= #33c7ff
+boton Pendientes = rgb(253, 163, 9); contraParte=rgb(249, 216, 163)
+boton Ambiente = rgb(34, 217, 155)contraParte=
+boton luces = rgb(34, 217, 155) contraParte=
+boton control = rgb(43, 170, 162) contraParte=
+boton chef = rgb(34, 70, 125) contraParte=
+______________________________________________
+ajustes de marjenes:
+position-absolute start-0
+________________________________________________
+pantallas chicas como cell=d-none d-sm-block
+medianas=d-md-none d-lg-block
+_______________________________________________
+
+.social-bar {	position: fixed;
+	    right: 0;
+	    	top: 35%;	
+	    	font-size: 1.5rem;
+
+		display: flex;	
+		flex-direction: column;	
+		align-items: flex-end;	
+		z-index: 100;}
+
+<div  class='icon icon-user-tie'>   ".$_SESSION["User"]."</div>
+              <a href='CloseSession.php' class='icon icon-exit'></a>
+               
+               </div>

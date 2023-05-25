@@ -1,0 +1,9 @@
+<img src="../recursos/noname.png" style="width:60%;height:660px;margin-left:-260px; margin-top:0px" class="col-md-3 col-lg-4 col-xl-5 ">
+
+
+sm-medio chico
+d-extrachico
+md-medio
+lg-extra grande
+
+btn-group para el main
